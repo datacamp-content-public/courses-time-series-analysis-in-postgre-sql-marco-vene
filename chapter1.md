@@ -40,3 +40,16 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+##  Aggregate Functions
+
+```yaml
+type: VideoExercise
+key: c38e4d10a1
+xp: 50
+```
+
+`@projector_key`
+45ab724914f22ea84c7d8d8737181126
