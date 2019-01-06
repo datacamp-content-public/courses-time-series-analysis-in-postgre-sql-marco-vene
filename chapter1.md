@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-##  Aggregate Functions
+## Aggregate Functions
 
 ```yaml
 type: VideoExercise
